@@ -1,0 +1,16 @@
+section {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+    margin: 3rem;
+}
+
+h1 {
+    margin: 3rem;
+}
+
+body {
+    text-align: center;
+    font-size: larger;
+}
